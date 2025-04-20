@@ -1,13 +1,13 @@
-python/
-│
-├── README.md
-│
-├── variables/
-│   ├── input_output.py
-│   ├── math_operations.py
-│   └── string_handling.py
-│
-├── conditions/
+python/  
+│  
+├── README.md  
+│  
+├── variables/  
+│     ├── input_output.py
+│     ├── math_operations.py
+│     └── string_handling.py
+│  
+├── conditions/  
 │   ├── if_else.py
 │   ├── odd_even.py
 │   └── compare_three_numbers.py
