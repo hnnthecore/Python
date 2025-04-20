@@ -3,25 +3,25 @@ python/
 ├── README.md  
 │  
 ├── variables/  
-│     ├── input_output.py
-│     ├── math_operations.py
-│     └── string_handling.py
+│   ├── input_output.py  
+│   ├── math_operations.py  
+│   └── string_handling.py  
 │  
 ├── conditions/  
-│   ├── if_else.py
-│   ├── odd_even.py
-│   └── compare_three_numbers.py
-│
-├── data_structures/
-│   ├── lists/
-│   │   ├── list_basics.py
-│   │   └── list_operations.py
-│   ├── tuples/
-│   │   └── tuple_examples.py
-│   ├── dictionaries/
-│   │   └── dict_examples.py
-│   └── sets/
-│       └── set_examples.py
-│
-└── projects/
+│   ├── if_else.py  
+│   ├── odd_even.py  
+│   └── compare_three_numbers.py  
+│  
+├── data_structures/  
+│   ├── lists/  
+│   │   ├── list_basics.py  
+│   │   └── list_operations.py  
+│   ├── tuples/  
+│   │   └── tuple_examples.py  
+│   ├── dictionaries/  
+│   │   └── dict_examples.py  
+│   └── sets/  
+│       └── set_examples.py  
+│  
+└── projects/  
     └── project_001_calculator.py
